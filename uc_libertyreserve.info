@@ -1,0 +1,6 @@
+name = Uc libertyreserve
+description = Provides the Liberty Reserve payment method
+core = 7.x
+package = "Ubercart - payment"
+
+
